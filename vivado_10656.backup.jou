@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Tue May  7 18:40:07 2024
+# Process ID: 10656
+# Current directory: E:/VIVADO/project_full_adder2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3128 E:\VIVADO\project_full_adder2\project_full_adder2.xpr
+# Log file: E:/VIVADO/project_full_adder2/vivado.log
+# Journal file: E:/VIVADO/project_full_adder2\vivado.jou
+# Running On: EEE_07, OS: Windows, CPU Frequency: 3000 MHz, CPU Physical cores: 4, Host memory: 4170 MB
+#-----------------------------------------------------------
+start_gui
+open_project E:/VIVADO/project_full_adder2/project_full_adder2.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+source testbench.tcl
+synth_design -rtl -rtl_skip_mlo -name rtl_1

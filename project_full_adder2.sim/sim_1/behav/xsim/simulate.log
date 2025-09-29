@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+                   0A=0000 B=0000 C_IN=0 C_OUT=0 SUM=0000
+
+                   5A=0101 B=0001 C_IN=0 C_OUT=0 SUM=0110
+
+                  10A=0000 B=0010 C_IN=0 C_OUT=0 SUM=0010
+
+                  15A=0011 B=0110 C_IN=0 C_OUT=0 SUM=1001
+
+                  20A=1100 B=1010 C_IN=0 C_OUT=1 SUM=0110
+

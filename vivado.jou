@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Mon Aug 11 12:22:32 2025
+# Process ID: 3060
+# Current directory: E:/project_full_adderstruct
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22464 E:\project_full_adderstruct\project_full_adder2.xpr
+# Log file: E:/project_full_adderstruct/vivado.log
+# Journal file: E:/project_full_adderstruct\vivado.jou
+# Running On        :LAPTOP-Q9Q9D4I3
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :AMD Ryzen 5 7535HS with Radeon Graphics        
+# CPU Frequency     :3294 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :7739 MB
+# Swap memory       :8589 MB
+# Total Virtual     :16329 MB
+# Available Virtual :467 MB
+#-----------------------------------------------------------
+start_gui
+open_project E:/project_full_adderstruct/project_full_adder2.xpr
+open_project {D:/New folder/vivado_proj/project_1/project_1.xpr}
+update_compile_close_sim
+eset sources_1
