@@ -1,4 +1,5 @@
 #-----------------------------------------------------------
+
 # Vivado v2023.2 (64-bit)
 # SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
 # IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
@@ -10,6 +11,7 @@
 # Log file: E:/VIVADO/project_full_adder2/vivado.log
 # Journal file: E:/VIVADO/project_full_adder2\vivado.jou
 # Running On: EEE_07, OS: Windows, CPU Frequency: 3000 MHz, CPU Physical cores: 4, Host memory: 4170 MB
+
 #-----------------------------------------------------------
 
 start_gui
