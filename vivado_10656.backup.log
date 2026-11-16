@@ -430,3 +430,5 @@ RTL Elaboration Complete:  : Time (s): cpu = 00:00:23 ; elapsed = 00:01:18 . Mem
 10 Infos, 0 Warnings, 0 Critical Warnings and 0 Errors encountered.
 synth_design completed successfully
 synth_design: Time (s): cpu = 00:00:29 ; elapsed = 00:01:35 . Memory (MB): peak = 2308.445 ; gain = 120.973
+
+
